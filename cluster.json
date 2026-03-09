@@ -1,0 +1,10 @@
+{
+    "__default__" :
+    {
+        "nCPUs" : "8",
+        "memory" : 12000,
+        "resources" : "\"select[mem>24000] rusage[mem=24000] span[hosts=1]\"",
+        "output" : "bsub_logs/{rule}.bsub",
+        "queues" : "ser",
+    },
+}

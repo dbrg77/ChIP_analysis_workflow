@@ -1,0 +1,8 @@
+{
+    "idx" : "/data/bio-chenx/reference/mus_musculus/refdata-cellranger-arc-mm10-2020-A-2.0.0/fasta/genome.fa",
+    "fa" : "/data/bio-chenx/reference/mus_musculus/refdata-cellranger-arc-mm10-2020-A-2.0.0/fasta/genome.fa",
+    "chromsize" : "/data/bio-chenx/reference/mus_musculus/refdata-cellranger-arc-mm10-2020-A-2.0.0/chrom.sizes",
+    "chromapother" : "--preset chip --trim-adapters",
+    "gsize" : "mm",
+    "broad" : "--broad"
+}
