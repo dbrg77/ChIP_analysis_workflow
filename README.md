@@ -108,3 +108,4 @@ If everything finishes without any problems, our directory should look like this
 ## Citation
 
 Xu, W., Ye, Y., Sharrocks, A.D., Zhang, W., and Chen, X. (2020). Genome-wide Interrogation of Protein-DNA Interactions in Mammalian Cells Using ChIPmentation. STAR Protocols 1, 100187. https://doi.org/10.1016/j.xpro.2020.100187
+Li, X., Xu, W., Ye, Y., Sharrocks, A.D., Zhang, W., and Chen, X. (2026). Protocol update to: Genome-wide interrogation of protein-DNA interactions in mammalian cells using ChIPmentation. STAR Protocols 7, 104495. https://doi.org/10.1016/j.xpro.2026.104495
